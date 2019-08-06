@@ -23,3 +23,7 @@
 ### 验证地址 ###
 
 https://support-cn.samsung.com/product_validation/productverification/ssd_memory.html
+
+### PS ###
+
+顺便出联想笔记本拆下来的记忆科技8G、DDR4、2666MHz内存条
