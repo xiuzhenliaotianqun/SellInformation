@@ -10,7 +10,7 @@
 
 ### CrystalDiskInfo信息 ###
 
-![](https://github.com/xiuzhenliaotianqun/SellInformation/raw/master/images/CrystalDiskInfo.png)
+![](https://github.com/xiuzhenliaotianqun/SellInformation/raw/master/images/CrystalDiskInfo%E6%A3%80%E6%B5%8B.png)
 
 ### CrystalDiskMark信息 ###
 
